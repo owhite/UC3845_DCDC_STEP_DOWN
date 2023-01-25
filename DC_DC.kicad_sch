@@ -936,6 +936,10 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 5b8f098c-e6d1-4272-baa7-975f46469234)
   )
+  (text "zener?" (at 128.27 68.58 0)
+    (effects (font (size 0.8 0.8)) (justify left bottom))
+    (uuid 8769fe92-bd05-4e2e-b1a9-284499a845a3)
+  )
   (text "R8 Current limiting, dampens parasitic osc.\nR9 Bleeder / sets state during power up"
     (at 16.51 88.265 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
